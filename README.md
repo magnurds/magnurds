@@ -1,6 +1,6 @@
 ### Salve, salve visitante 👋
 
-Eu me chamo **Magno** e atualmente estou inciando meus estudos na área de *programação front-end* no Senai Conde José Vicente de Azevedo em parceria e patrocínio da Ford  brasil (https://www.ford.com.br/sobre-a-ford/ford-enter/) e espero em breve poder estar colaborando e interagindo com mais programadores do Brasil e de até outras partes do mundo para desenvolvermos idéias e descobrirmos novas formas de comunicação, trabalho e entretenimento para a web. Bora me ajudar nessa jornada ?! 
+Eu me chamo **Magno** e atualmente estou inciando meus estudos na área de *programação front-end* no Senai Conde José Vicente de Azevedo em parceria e patrocínio da Ford  Brasil (https://www.ford.com.br/sobre-a-ford/ford-enter/) e espero em breve poder estar colaborando e interagindo com mais programadores do Brasil e de até outras partes do mundo para desenvolvermos idéias e descobrirmos novas formas de comunicação, trabalho e entretenimento para a web. Bora me ajudar nessa jornada ?! 
 
  ![Ilustração de um desenvolvedor](https://www.apptuts.net/wp-content/uploads/2018/08/destaquedesenvolvimento.jpg)
 
